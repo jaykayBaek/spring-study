@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e357668b-5352-4156-b0f2-0f61fc43dc6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/connection/ConnectionConst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/connection/DBConnectionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/repository/MemberRepositoryV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/test/java/hello/jdbc/connection/DbConnectionUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/jdbc/src/test/java/hello/jdbc/repository/MemberRepositoryV0Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e357668b-5352-4156-b0f2-0f61fc43dc6e" name="Changes" comment="JDBC - insert 학습">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/jdbc/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/database/jdbc/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/repository/MemberRepositoryV0.java" beforeDir="false" afterPath="$PROJECT_DIR$/database/jdbc/src/main/java/hello/jdbc/repository/MemberRepositoryV0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/jdbc/src/test/java/hello/jdbc/repository/MemberRepositoryV0Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/database/jdbc/src/test/java/hello/jdbc/repository/MemberRepositoryV0Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +66,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "e55f92d3f772b29524f69606ad3aecde",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -162,11 +152,24 @@
       <workItem from="1694780151743" duration="30000" />
       <workItem from="1694780205202" duration="62000" />
       <workItem from="1694780276087" duration="41000" />
-      <workItem from="1694780323708" duration="3641000" />
+      <workItem from="1694780323708" duration="3826000" />
+      <workItem from="1694853130154" duration="2296000" />
     </task>
+    <task id="LOCAL-00001" summary="JDBC - insert 학습">
+      <created>1694785387050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694785387050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JDBC - insert 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC - insert 학습" />
   </component>
 </project>
